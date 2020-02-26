@@ -7,12 +7,12 @@ A Cloud ready Post it app composed of
 
 To run this demo:
 1. Fork this repo and modify the following button changing the URL on this README.md file:
-2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-boeing-1e4d.boeing-1e4d.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app)
+2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-sjc-50bb.sjc-50bb.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app)
 
 The URL should use your instance of Che/CodeReady Workspaces:
 
 ```
-https://codeready-crw.apps.cluster-boeing-1e4d.boeing-1e4d.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app
+https://codeready-crw.apps.cluster-sjc-50bb.sjc-50bb.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app
 ```
 
 Alternatively,
