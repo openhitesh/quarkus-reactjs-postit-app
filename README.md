@@ -17,7 +17,7 @@ https://codeready-crw.apps.cluster-sjc-bada.sjc-bada.example.opentlc.com/factory
 
 Alternatively,
 1. Add your prefered Che or CodeReady Workspaces instance: https://blog.sunix.org/factory (that would just do the right redirection to the right server based on your preferences)
-2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-boeing-1e4d.boeing-1e4d.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app)
+2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-crw.apps.cluster-sjc-bada.sjc-bada.example.opentlc.com/factory?url=https://github.com/openhitesh/quarkus-reactjs-postit-app)
 
 ![Application topology](topology.png "Application Topology")
 
